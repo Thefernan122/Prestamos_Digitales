@@ -65,13 +65,15 @@ Batch size: 32
 (Aquí deberías insertar tus gráficas. Ejemplo de cómo referenciarlas si están en una carpeta imagenes)
 
 Evolución del Error (MSE) de la Red Neuronal:
-![Evolución del Error NN](imagenes/grafica_nn_loss.png)
+![descarga3](https://github.com/user-attachments/assets/9202eadb-1c14-4f7f-8ece-b573ff1b6431)
 
 Predicción vs Real (Red Neuronal):
-![Predicciones NN](imagenes/grafica_nn_predicciones.png)
+![descarga4](https://github.com/user-attachments/assets/dffe602d-9a13-4070-876d-e9dc3934f202)
 
 Regresión Lineal Simple:
-![Regresión Lineal Simple](imagenes/grafica_regresion_lineal.png)
+
+![descarga5](https://github.com/user-attachments/assets/a2333eda-a960-46bb-9039-de5380a39358)
+
 
 🧠 Lógica de Programación
 Uso de lista (errores) para almacenar errores absolutos de las predicciones de la red neuronal.
